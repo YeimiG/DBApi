@@ -1,0 +1,6 @@
+@SistemPenitentiary_HostAddress = http://localhost:5227
+
+GET {{SistemPenitentiary_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
