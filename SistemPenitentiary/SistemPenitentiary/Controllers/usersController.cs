@@ -1,8 +1,9 @@
 ﻿using Microsoft.AspNetCore.Http;
+using Microsoft.AspNetCore.Identity.Data;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 using SistemPenitentiary.Models;
-
+using SistemPenitentiary.Dptos;
 
 namespace penitentiry.Controllers
 {
@@ -27,14 +28,26 @@ namespace penitentiry.Controllers
         }
 
         // GET: api/User/Obtener/{id}
-        [HttpGet]
-        [Route("Obtener/{id:guid}")]
-        public async Task<IActionResult> Get(Guid id)
+        [HttpPost]
+        [Route("Login")]
+        public async Task<IActionResult> Login([FromBody] SistemPenitentiary.Dptos.LoginRequest request)
         {
-            var user = await _dbContext.Users.FirstOrDefaultAsync(u => u.UserId == id);
-            if (user == null)
-                return NotFound(new { mensaje = "Usuario no encontrado" });
+            // First, check if the request object is null or if the properties are empty
+            if (request == null || string.IsNullOrEmpty(request.Username) || string.IsNullOrEmpty(request.PasswordHash))
+            {
+                return BadRequest(new { mensaje = "Datos de inicio de sesión incompletos." });
+            }
 
+            // Use FirstOrDefaultAsync to find the user by both username and password hash
+            var user = await _dbContext.Users.FirstOrDefaultAsync(u => u.Username == request.Username && u.PasswordHash == request.PasswordHash);
+
+            // If the user is not found, return a 404 Not Found response
+            if (user == null)
+            {
+                return NotFound(new { mensaje = "Credenciales incorrectas" });
+            }
+
+            // If the user is found, return a 200 OK response with the user data
             return StatusCode(StatusCodes.Status200OK, user);
         }
 
