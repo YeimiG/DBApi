@@ -1,6 +1,5 @@
 {
   "Version": 1,
-<<<<<<< HEAD
   "WorkspaceRootPath": "C:\\Users\\YEIMI\\Documents\\GitHub\\DBApi\\SistemPenitentiary\\",
   "Documents": [
     {
@@ -25,28 +24,6 @@
     },
     {
       "AbsoluteMoniker": "D:0:0:{EF956B2C-BEF5-4D25-B3C9-87A78E7785F1}|SistemPenitentiary\\SistemPenitentiary.csproj|c:\\users\\yeimi\\documents\\github\\dbapi\\sistempenitentiary\\sistempenitentiary\\models\\ueusocotcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-=======
-  "WorkspaceRootPath": "C:\\Users\\Kike\\Documents\\DBApi\\SistemPenitentiary\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{EF956B2C-BEF5-4D25-B3C9-87A78E7785F1}|SistemPenitentiary\\SistemPenitentiary.csproj|c:\\users\\kike\\documents\\dbapi\\sistempenitentiary\\sistempenitentiary\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EF956B2C-BEF5-4D25-B3C9-87A78E7785F1}|SistemPenitentiary\\SistemPenitentiary.csproj|solutionrelative:sistempenitentiary\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EF956B2C-BEF5-4D25-B3C9-87A78E7785F1}|SistemPenitentiary\\SistemPenitentiary.csproj|c:\\users\\kike\\documents\\dbapi\\sistempenitentiary\\sistempenitentiary\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EF956B2C-BEF5-4D25-B3C9-87A78E7785F1}|SistemPenitentiary\\SistemPenitentiary.csproj|solutionrelative:sistempenitentiary\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EF956B2C-BEF5-4D25-B3C9-87A78E7785F1}|SistemPenitentiary\\SistemPenitentiary.csproj|c:\\users\\kike\\documents\\dbapi\\sistempenitentiary\\sistempenitentiary\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EF956B2C-BEF5-4D25-B3C9-87A78E7785F1}|SistemPenitentiary\\SistemPenitentiary.csproj|solutionrelative:sistempenitentiary\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EF956B2C-BEF5-4D25-B3C9-87A78E7785F1}|SistemPenitentiary\\SistemPenitentiary.csproj|c:\\users\\kike\\documents\\dbapi\\sistempenitentiary\\sistempenitentiary\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{EF956B2C-BEF5-4D25-B3C9-87A78E7785F1}|SistemPenitentiary\\SistemPenitentiary.csproj|solutionrelative:sistempenitentiary\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EF956B2C-BEF5-4D25-B3C9-87A78E7785F1}|SistemPenitentiary\\SistemPenitentiary.csproj|c:\\users\\kike\\documents\\dbapi\\sistempenitentiary\\sistempenitentiary\\models\\ueusocotcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
->>>>>>> 6c0c76ed9a4f5c0e746294695dc63fb502dbb546
       "RelativeMoniker": "D:0:0:{EF956B2C-BEF5-4D25-B3C9-87A78E7785F1}|SistemPenitentiary\\SistemPenitentiary.csproj|solutionrelative:sistempenitentiary\\models\\ueusocotcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -57,31 +34,97 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-<<<<<<< HEAD
           "SelectedChildIndex": 24,
-=======
-          "SelectedChildIndex": 6,
->>>>>>> 6c0c76ed9a4f5c0e746294695dc63fb502dbb546
           "Children": [
             {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "LoginController.cs",
-              "DocumentMoniker": "C:\\Users\\Kike\\Documents\\DBApi\\SistemPenitentiary\\SistemPenitentiary\\Controllers\\LoginController.cs",
-              "RelativeDocumentMoniker": "SistemPenitentiary\\Controllers\\LoginController.cs",
-              "ToolTip": "C:\\Users\\Kike\\Documents\\DBApi\\SistemPenitentiary\\SistemPenitentiary\\Controllers\\LoginController.cs",
-              "RelativeToolTip": "SistemPenitentiary\\Controllers\\LoginController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-22T05:37:22.426Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:135:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:136:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:137:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:135:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:137:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:138:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:139:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:140:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
             },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
             },
             {
-<<<<<<< HEAD
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "LoginRequest.cs",
@@ -91,40 +134,10 @@
               "RelativeToolTip": "SistemPenitentiary\\Dptos\\LoginRequest.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-22T17:55:10.585Z",
-=======
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+              "WhenOpened": "2025-08-22T17:55:10.585Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "usersController.cs",
-              "DocumentMoniker": "C:\\Users\\Kike\\Documents\\DBApi\\SistemPenitentiary\\SistemPenitentiary\\Controllers\\usersController.cs",
-              "RelativeDocumentMoniker": "SistemPenitentiary\\Controllers\\usersController.cs",
-              "ToolTip": "C:\\Users\\Kike\\Documents\\DBApi\\SistemPenitentiary\\SistemPenitentiary\\Controllers\\usersController.cs",
-              "RelativeToolTip": "SistemPenitentiary\\Controllers\\usersController.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAACgAAAAfAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-16T21:56:14.126Z",
->>>>>>> 6c0c76ed9a4f5c0e746294695dc63fb502dbb546
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-<<<<<<< HEAD
               "DocumentIndex": 3,
               "Title": "User.cs",
               "DocumentMoniker": "C:\\Users\\YEIMI\\Documents\\GitHub\\DBApi\\SistemPenitentiary\\SistemPenitentiary\\Models\\User.cs",
@@ -133,8 +146,7 @@
               "RelativeToolTip": "SistemPenitentiary\\Models\\User.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-16T22:00:17.538Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-16T22:00:17.538Z"
             },
             {
               "$type": "Document",
@@ -144,7 +156,7 @@
               "RelativeDocumentMoniker": "SistemPenitentiary\\Controllers\\usersController.cs",
               "ToolTip": "C:\\Users\\YEIMI\\Documents\\GitHub\\DBApi\\SistemPenitentiary\\SistemPenitentiary\\Controllers\\usersController.cs",
               "RelativeToolTip": "SistemPenitentiary\\Controllers\\usersController.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAAwCUAAABGAAAAAAAAAA==",
+              "ViewState": "AgIAABcAAAAAAAAAAAAQwEIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-16T21:56:14.126Z",
               "EditorCaption": ""
@@ -159,8 +171,7 @@
               "RelativeToolTip": "SistemPenitentiary\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-16T21:54:07.759Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-16T21:54:07.759Z"
             },
             {
               "$type": "Document",
@@ -172,8 +183,7 @@
               "RelativeToolTip": "SistemPenitentiary\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-08-16T21:52:08.224Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-16T21:52:08.224Z"
             },
             {
               "$type": "Document",
@@ -182,37 +192,6 @@
               "DocumentMoniker": "C:\\Users\\YEIMI\\Documents\\GitHub\\DBApi\\SistemPenitentiary\\SistemPenitentiary\\Models\\UeUsocotContext.cs",
               "RelativeDocumentMoniker": "SistemPenitentiary\\Models\\UeUsocotContext.cs",
               "ToolTip": "C:\\Users\\YEIMI\\Documents\\GitHub\\DBApi\\SistemPenitentiary\\SistemPenitentiary\\Models\\UeUsocotContext.cs",
-=======
-              "DocumentIndex": 2,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Kike\\Documents\\DBApi\\SistemPenitentiary\\SistemPenitentiary\\Program.cs",
-              "RelativeDocumentMoniker": "SistemPenitentiary\\Program.cs",
-              "ToolTip": "C:\\Users\\Kike\\Documents\\DBApi\\SistemPenitentiary\\SistemPenitentiary\\Program.cs",
-              "RelativeToolTip": "SistemPenitentiary\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABCAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-16T21:54:07.759Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\Kike\\Documents\\DBApi\\SistemPenitentiary\\SistemPenitentiary\\appsettings.json",
-              "RelativeDocumentMoniker": "SistemPenitentiary\\appsettings.json",
-              "ToolTip": "C:\\Users\\Kike\\Documents\\DBApi\\SistemPenitentiary\\SistemPenitentiary\\appsettings.json",
-              "RelativeToolTip": "SistemPenitentiary\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-08-16T21:52:08.224Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "UeUsocotContext.cs",
-              "DocumentMoniker": "C:\\Users\\Kike\\Documents\\DBApi\\SistemPenitentiary\\SistemPenitentiary\\Models\\UeUsocotContext.cs",
-              "RelativeDocumentMoniker": "SistemPenitentiary\\Models\\UeUsocotContext.cs",
-              "ToolTip": "C:\\Users\\Kike\\Documents\\DBApi\\SistemPenitentiary\\SistemPenitentiary\\Models\\UeUsocotContext.cs",
->>>>>>> 6c0c76ed9a4f5c0e746294695dc63fb502dbb546
               "RelativeToolTip": "SistemPenitentiary\\Models\\UeUsocotContext.cs",
               "ViewState": "AgIAABkAAAAAAAAAAAA/wCcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
