@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SistemPenitentiary")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b7b6ccc4a1de3ff756d51c7733e7bc867b0be890")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+da495013fa52b2c440ea2227c8bc563a89f451fe")]
 [assembly: System.Reflection.AssemblyProductAttribute("SistemPenitentiary")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SistemPenitentiary")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -279,3 +279,4 @@ C:\Users\YEIMI\Documents\GitHub\DBApi\SistemPenitentiary\SistemPenitentiary\obj\
 C:\Users\YEIMI\Documents\GitHub\DBApi\SistemPenitentiary\SistemPenitentiary\obj\Debug\net8.0\SistemPenitentiary.pdb
 C:\Users\YEIMI\Documents\GitHub\DBApi\SistemPenitentiary\SistemPenitentiary\obj\Debug\net8.0\SistemPenitentiary.genruntimeconfig.cache
 C:\Users\YEIMI\Documents\GitHub\DBApi\SistemPenitentiary\SistemPenitentiary\obj\Debug\net8.0\ref\SistemPenitentiary.dll
+C:\Users\YEIMI\Documents\GitHub\DBApi\SistemPenitentiary\SistemPenitentiary\bin\Debug\net8.0\BCrypt.Net-Next.dll

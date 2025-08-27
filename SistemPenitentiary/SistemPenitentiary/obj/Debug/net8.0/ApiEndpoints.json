@@ -1,5 +1,84 @@
 [
   {
+    "ContainingType": "SistemPenitentiary.Controllers.EnviromentController",
+    "Method": "CreateEnvironment",
+    "RelativePath": "api/Enviroment",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "environmentDto",
+        "Type": "SistemPenitentiary.DTOs.EnvironmentCreateUpdateDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SistemPenitentiary.Controllers.EnviromentController",
+    "Method": "GetAllEnvironments",
+    "RelativePath": "api/Enviroment",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SistemPenitentiary.Controllers.EnviromentController",
+    "Method": "GetEnvironmentById",
+    "RelativePath": "api/Enviroment/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Guid",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SistemPenitentiary.Controllers.EnviromentController",
+    "Method": "UpdateEnvironment",
+    "RelativePath": "api/Enviroment/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Guid",
+        "IsRequired": true
+      },
+      {
+        "Name": "environmentDto",
+        "Type": "SistemPenitentiary.DTOs.EnvironmentCreateUpdateDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SistemPenitentiary.Controllers.EnviromentController",
+    "Method": "DeleteEnvironment",
+    "RelativePath": "api/Enviroment/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Guid",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
     "ContainingType": "penitentiry.Controllers.UserController",
     "Method": "Update",
     "RelativePath": "api/User/Editar",

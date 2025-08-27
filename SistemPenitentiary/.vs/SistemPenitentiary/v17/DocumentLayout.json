@@ -3,24 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\YEIMI\\Documents\\GitHub\\DBApi\\SistemPenitentiary\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{EF956B2C-BEF5-4D25-B3C9-87A78E7785F1}|SistemPenitentiary\\SistemPenitentiary.csproj|c:\\users\\yeimi\\documents\\github\\dbapi\\sistempenitentiary\\sistempenitentiary\\controllers\\enviromentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EF956B2C-BEF5-4D25-B3C9-87A78E7785F1}|SistemPenitentiary\\SistemPenitentiary.csproj|solutionrelative:sistempenitentiary\\controllers\\enviromentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{EF956B2C-BEF5-4D25-B3C9-87A78E7785F1}|SistemPenitentiary\\SistemPenitentiary.csproj|c:\\users\\yeimi\\documents\\github\\dbapi\\sistempenitentiary\\sistempenitentiary\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EF956B2C-BEF5-4D25-B3C9-87A78E7785F1}|SistemPenitentiary\\SistemPenitentiary.csproj|solutionrelative:sistempenitentiary\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EF956B2C-BEF5-4D25-B3C9-87A78E7785F1}|SistemPenitentiary\\SistemPenitentiary.csproj|c:\\users\\yeimi\\documents\\github\\dbapi\\sistempenitentiary\\sistempenitentiary\\dptos\\environment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EF956B2C-BEF5-4D25-B3C9-87A78E7785F1}|SistemPenitentiary\\SistemPenitentiary.csproj|solutionrelative:sistempenitentiary\\dptos\\environment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{EF956B2C-BEF5-4D25-B3C9-87A78E7785F1}|SistemPenitentiary\\SistemPenitentiary.csproj|c:\\users\\yeimi\\documents\\github\\dbapi\\sistempenitentiary\\sistempenitentiary\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF956B2C-BEF5-4D25-B3C9-87A78E7785F1}|SistemPenitentiary\\SistemPenitentiary.csproj|solutionrelative:sistempenitentiary\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{EF956B2C-BEF5-4D25-B3C9-87A78E7785F1}|SistemPenitentiary\\SistemPenitentiary.csproj|c:\\users\\yeimi\\documents\\github\\dbapi\\sistempenitentiary\\sistempenitentiary\\dptos\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EF956B2C-BEF5-4D25-B3C9-87A78E7785F1}|SistemPenitentiary\\SistemPenitentiary.csproj|solutionrelative:sistempenitentiary\\dptos\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EF956B2C-BEF5-4D25-B3C9-87A78E7785F1}|SistemPenitentiary\\SistemPenitentiary.csproj|c:\\users\\yeimi\\documents\\github\\dbapi\\sistempenitentiary\\sistempenitentiary\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EF956B2C-BEF5-4D25-B3C9-87A78E7785F1}|SistemPenitentiary\\SistemPenitentiary.csproj|solutionrelative:sistempenitentiary\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{EF956B2C-BEF5-4D25-B3C9-87A78E7785F1}|SistemPenitentiary\\SistemPenitentiary.csproj|c:\\users\\yeimi\\documents\\github\\dbapi\\sistempenitentiary\\sistempenitentiary\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{EF956B2C-BEF5-4D25-B3C9-87A78E7785F1}|SistemPenitentiary\\SistemPenitentiary.csproj|solutionrelative:sistempenitentiary\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF956B2C-BEF5-4D25-B3C9-87A78E7785F1}|SistemPenitentiary\\SistemPenitentiary.csproj|c:\\users\\yeimi\\documents\\github\\dbapi\\sistempenitentiary\\sistempenitentiary\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF956B2C-BEF5-4D25-B3C9-87A78E7785F1}|SistemPenitentiary\\SistemPenitentiary.csproj|solutionrelative:sistempenitentiary\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF956B2C-BEF5-4D25-B3C9-87A78E7785F1}|SistemPenitentiary\\SistemPenitentiary.csproj|c:\\users\\yeimi\\documents\\github\\dbapi\\sistempenitentiary\\sistempenitentiary\\dptos\\environment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF956B2C-BEF5-4D25-B3C9-87A78E7785F1}|SistemPenitentiary\\SistemPenitentiary.csproj|solutionrelative:sistempenitentiary\\dptos\\environment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,8 +34,36 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 22,
+          "SelectedChildIndex": 27,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\YEIMI\\Documents\\GitHub\\DBApi\\SistemPenitentiary\\SistemPenitentiary\\Models\\User.cs",
+              "RelativeDocumentMoniker": "SistemPenitentiary\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\YEIMI\\Documents\\GitHub\\DBApi\\SistemPenitentiary\\SistemPenitentiary\\Models\\User.cs",
+              "RelativeToolTip": "SistemPenitentiary\\Models\\User.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAA4wBUAAABhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-16T22:00:17.538Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LoginRequest.cs",
+              "DocumentMoniker": "C:\\Users\\YEIMI\\Documents\\GitHub\\DBApi\\SistemPenitentiary\\SistemPenitentiary\\Dptos\\LoginRequest.cs",
+              "RelativeDocumentMoniker": "SistemPenitentiary\\Dptos\\LoginRequest.cs",
+              "ToolTip": "C:\\Users\\YEIMI\\Documents\\GitHub\\DBApi\\SistemPenitentiary\\SistemPenitentiary\\Dptos\\LoginRequest.cs",
+              "RelativeToolTip": "SistemPenitentiary\\Dptos\\LoginRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-22T17:55:10.585Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
@@ -122,20 +154,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "EnviromentController.cs",
-              "DocumentMoniker": "C:\\Users\\YEIMI\\Documents\\GitHub\\DBApi\\SistemPenitentiary\\SistemPenitentiary\\Controllers\\EnviromentController.cs",
-              "RelativeDocumentMoniker": "SistemPenitentiary\\Controllers\\EnviromentController.cs",
-              "ToolTip": "C:\\Users\\YEIMI\\Documents\\GitHub\\DBApi\\SistemPenitentiary\\SistemPenitentiary\\Controllers\\EnviromentController.cs",
-              "RelativeToolTip": "SistemPenitentiary\\Controllers\\EnviromentController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAnAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-22T18:16:13.37Z",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\YEIMI\\Documents\\GitHub\\DBApi\\SistemPenitentiary\\SistemPenitentiary\\appsettings.json",
+              "RelativeDocumentMoniker": "SistemPenitentiary\\appsettings.json",
+              "ToolTip": "C:\\Users\\YEIMI\\Documents\\GitHub\\DBApi\\SistemPenitentiary\\SistemPenitentiary\\appsettings.json",
+              "RelativeToolTip": "SistemPenitentiary\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-27T21:38:11.452Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
+              "Title": "LoginController.cs",
+              "DocumentMoniker": "C:\\Users\\YEIMI\\Documents\\GitHub\\DBApi\\SistemPenitentiary\\SistemPenitentiary\\Controllers\\LoginController.cs",
+              "RelativeDocumentMoniker": "SistemPenitentiary\\Controllers\\LoginController.cs",
+              "ToolTip": "C:\\Users\\YEIMI\\Documents\\GitHub\\DBApi\\SistemPenitentiary\\SistemPenitentiary\\Controllers\\LoginController.cs",
+              "RelativeToolTip": "SistemPenitentiary\\Controllers\\LoginController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-27T21:28:48.55Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "Environment.cs",
               "DocumentMoniker": "C:\\Users\\YEIMI\\Documents\\GitHub\\DBApi\\SistemPenitentiary\\SistemPenitentiary\\Dptos\\Environment.cs",
               "RelativeDocumentMoniker": "SistemPenitentiary\\Dptos\\Environment.cs",
@@ -148,37 +193,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "LoginRequest.cs",
-              "DocumentMoniker": "C:\\Users\\YEIMI\\Documents\\GitHub\\DBApi\\SistemPenitentiary\\SistemPenitentiary\\Dptos\\LoginRequest.cs",
-              "RelativeDocumentMoniker": "SistemPenitentiary\\Dptos\\LoginRequest.cs",
-              "ToolTip": "C:\\Users\\YEIMI\\Documents\\GitHub\\DBApi\\SistemPenitentiary\\SistemPenitentiary\\Dptos\\LoginRequest.cs",
-              "RelativeToolTip": "SistemPenitentiary\\Dptos\\LoginRequest.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-22T17:55:10.585Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "User.cs",
-              "DocumentMoniker": "C:\\Users\\YEIMI\\Documents\\GitHub\\DBApi\\SistemPenitentiary\\SistemPenitentiary\\Models\\User.cs",
-              "RelativeDocumentMoniker": "SistemPenitentiary\\Models\\User.cs",
-              "ToolTip": "C:\\Users\\YEIMI\\Documents\\GitHub\\DBApi\\SistemPenitentiary\\SistemPenitentiary\\Models\\User.cs",
-              "RelativeToolTip": "SistemPenitentiary\\Models\\User.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-16T22:00:17.538Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "usersController.cs",
               "DocumentMoniker": "C:\\Users\\YEIMI\\Documents\\GitHub\\DBApi\\SistemPenitentiary\\SistemPenitentiary\\Controllers\\usersController.cs",
               "RelativeDocumentMoniker": "SistemPenitentiary\\Controllers\\usersController.cs",
               "ToolTip": "C:\\Users\\YEIMI\\Documents\\GitHub\\DBApi\\SistemPenitentiary\\SistemPenitentiary\\Controllers\\usersController.cs",
               "RelativeToolTip": "SistemPenitentiary\\Controllers\\usersController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAEAAAAAAAAAA==",
+              "ViewState": "AgIAAD4AAAAAAAAAAAAswDgAAABeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-16T21:56:14.126Z",
               "EditorCaption": ""
