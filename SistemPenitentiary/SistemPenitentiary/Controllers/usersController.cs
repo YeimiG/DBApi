@@ -1,9 +1,8 @@
 ﻿using Microsoft.AspNetCore.Http;
-using Microsoft.AspNetCore.Identity.Data;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 using SistemPenitentiary.Models;
-using SistemPenitentiary.Dptos;
+
 
 namespace penitentiry.Controllers
 {
@@ -28,33 +27,15 @@ namespace penitentiry.Controllers
         }
 
         // GET: api/User/Obtener/{id}
-        [HttpPost]
-        [Route("Login")]
-        public async Task<IActionResult> Login([FromBody] SistemPenitentiary.Dptos.LoginRequest request)
+        [HttpGet]
+        [Route("Obtener/{id:guid}")]
+        public async Task<IActionResult> Get(Guid id)
         {
-           
-            if (request == null || string.IsNullOrEmpty(request.Username) || string.IsNullOrEmpty(request.PasswordHash))
-            {
-                return BadRequest(new { mensaje = "Datos de inicio de sesión incompletos." });
-            }
-
- 
-            var user = await _dbContext.Users.FirstOrDefaultAsync(u => u.Username == request.Username);
-
+            var user = await _dbContext.Users.FirstOrDefaultAsync(u => u.UserId == id);
             if (user == null)
-            {
-                return Unauthorized(new { mensaje = "Credenciales incorrectas" });
-            }
+                return NotFound(new { mensaje = "Usuario no encontrado" });
 
-
-            if (!BCrypt.Net.BCrypt.Verify(request.PasswordHash, user.PasswordHash))
-            {
-                // If the passwords don't match, return an Unauthorized response
-                return Unauthorized(new { mensaje = "Credenciales incorrectas" });
-            }
-
-
-            return Ok(new { mensaje = "Inicio de sesión exitoso", userId = user.UserId, username = user.Username });
+            return StatusCode(StatusCodes.Status200OK, user);
         }
 
         // POST: api/User/Nuevo
@@ -62,19 +43,12 @@ namespace penitentiry.Controllers
         [Route("Nuevo")]
         public async Task<IActionResult> Create([FromBody] User user)
         {
-            // Genera un nuevo ID para el usuario y la fecha de creación
             user.UserId = Guid.NewGuid();
             user.CreatedAt = DateTime.UtcNow;
 
-            // Hashea la contraseña antes de asignarla
-            // BCrypt.Net genera el salt y el hash en un solo paso
-            user.PasswordHash = BCrypt.Net.BCrypt.HashPassword(user.PasswordHash);
-
-            // Agrega el usuario a la base de datos
             await _dbContext.Users.AddAsync(user);
             await _dbContext.SaveChangesAsync();
 
-            // Devuelve una respuesta con el estado 201 Created
             return StatusCode(StatusCodes.Status201Created, new { mensaje = "Usuario creado", userId = user.UserId });
         }
 
